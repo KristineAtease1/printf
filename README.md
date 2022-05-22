@@ -1,1 +1,1 @@
-printf task by Alfred Emmanuel and Solomon Tetteh
+# printf task by John Kumeku and Kristine Atease
